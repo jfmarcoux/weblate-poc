@@ -84,35 +84,35 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n<=1 ?0 : 1;\n"
 
-#~ msgid "Failed to lock ref for update"
-#~ msgstr "Échec du verrouillage de la référence pour mise à jour"
+msgid "Failed to lock ref for update"
+msgstr "Échec du verrouillage de la référence pour mise à jour"
 
-#~ msgid "Failed to write ref"
-#~ msgstr "Échec de l'écriture de la référence"
+msgid "Failed to write ref"
+msgstr "Échec de l'écriture de la référence"
 
-#~ msgid "Failed to lock HEAD during fast_forward_to"
-#~ msgstr "Échec du verrouillage de HEAD pendant l'avance rapide"
+msgid "Failed to lock HEAD during fast_forward_to"
+msgstr "Échec du verrouillage de HEAD pendant l'avance rapide"
 
-#~ msgid "cannot lock HEAD ref"
-#~ msgstr "impossible de verrouiller la référence HEAD"
+msgid "cannot lock HEAD ref"
+msgstr "impossible de verrouiller la référence HEAD"
 
-#~ msgid "cannot update HEAD ref"
-#~ msgstr "impossible de mettre à jour la référence HEAD"
+msgid "cannot update HEAD ref"
+msgstr "impossible de mettre à jour la référence HEAD"
 
-#~ msgid "%s: cannot lock the ref"
-#~ msgstr "%s : impossible de verrouiller la référence"
+msgid "%s: cannot lock the ref"
+msgstr "%s : impossible de verrouiller la référence"
 
-#~ msgid "%s: cannot update the ref"
-#~ msgstr "%s : impossible de mettre à jour la référence"
+msgid "%s: cannot update the ref"
+msgstr "%s : impossible de mettre à jour la référence"
 
-#~ msgid "commit has empty message"
-#~ msgstr "le commit a un message vide"
+msgid "commit has empty message"
+msgstr "le commit a un message vide"
 
-#~ msgid "Failed to chdir: %s"
-#~ msgstr "Échec de chdir: %s"
+msgid "Failed to chdir: %s"
+msgstr "Échec de chdir: %s"
 
-#~ msgid "Tracking not set up: name too long: %s"
-#~ msgstr "Suivi de branche non paramétré : le nom est trop long : %s"
+msgid "Tracking not set up: name too long: %s"
+msgstr "Suivi de branche non paramétré : le nom est trop long : %s"
 
-#~ msgid "could not find .gitmodules in index"
-#~ msgstr "impossible de trouver .gitmodules dans l'index"
+msgid "could not find .gitmodules in index"
+msgstr "impossible de trouver .gitmodules dans l'index"
