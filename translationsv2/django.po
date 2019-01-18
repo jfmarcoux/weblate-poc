@@ -116,3 +116,6 @@ msgstr "Suivi de branche non paramétré : le nom est trop long : %s"
 
 msgid "could not find .gitmodules in index"
 msgstr "impossible de trouver .gitmodules dans l'index"
+
+msgid "music band"
+msgstr "Groupe de musique"
