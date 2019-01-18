@@ -1,0 +1,118 @@
+# French translations for Git.
+# Copyright (C) 2018 Jean-Noël Avila <jn.avila@free.fr>
+# This file is distributed under the same license as the Git package.
+# Jean-Noël Avila <jn.avila@free.fr>, 2018.
+# Sébastien Helleu <flashcode@flashtux.org>, 2013.
+#
+# French translations of common Git words used in this file:
+#
+#   English          |  French
+#   -----------------+---------------------------------
+#   3-way merge      |  fusion à 3 points
+#   #NN              |  n°NN
+#   a commit         |  un commit
+#   backward         |
+#     compatibility  |  rétrocompatibilité
+#   bare repository  |  dépôt nu
+#   bisect           |  bissection
+#   blob             |  blob
+#   bug              |  bogue
+#   bundle           |  colis
+#   bypass           |  éviter d'utiliser
+#   to checkout      |  extraire
+#   cherry-pick      |  picorer
+#   to commit        |  valider
+#   commit-ish       |  commit ou apparenté
+#   config file      |  fichier de configuration
+#   dangling         |  en suspens
+#   to debug         |  déboguer
+#   debugging        |  débogage
+#   to deflate       |  compresser
+#   email            |  courriel
+#   entry            |  élément
+#   fast-forward     |  avance rapide
+#   fast-forwarded   |  mis à jour en avance rapide
+#   to fetch         |  rapatrier
+#   fix conflicts    |  réglez les conflits
+#   to format        |  formater
+#   glob             |  glob
+#   hash             |  hachage
+#   HEAD             |  HEAD (genre féminin)
+#   hook             |  crochet
+#   hunk             |  section
+#   to inflate       |  décompresser
+#   to list          |  afficher
+#   mapping          |  mise en correspondance
+#   merge            |  fusion
+#   pack             |  paquet
+#   patches          |  patchs
+#   pattern          |  motif
+#   to prune         |  éliminer
+#   to push          |  pousser
+#   to rebase        |  rebaser
+#   trailers         |  lignes terminales
+#   repository       |  dépôt
+#   remote           |  distante (ou serveur distant)
+#   revision         |  révision
+#   shallow          |  superficiel
+#   shell            |  interpréteur de commandes
+#   stash            |  remisage
+#   to stash         |  remiser
+#   tag              |  étiquette
+#   template         |  modèle
+#   thread           |  fil
+#   to track         |  suivre
+#   tree             |  arbre
+#   tree-ish         |  arbre ou apparenté
+#   to unstage       |  désindexer
+#   upstream         |  amont
+#   viewer           |  visualiseur
+#   worktree /       |
+#   work(ing) tree   |  copie de travail
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: git\n"
+"Report-Msgid-Bugs-To: Git Mailing List <git@vger.kernel.org>\n"
+"POT-Creation-Date: 2018-12-02 10:55+0800\n"
+"PO-Revision-Date: 2018-12-02 10:24+0100\n"
+"Last-Translator: Jean-Noël Avila <jn.avila@free.fr>\n"
+"Language-Team: Jean-Noël Avila <jn.avila@free.fr>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n<=1 ?0 : 1;\n"
+
+#~ msgid "Failed to lock ref for update"
+#~ msgstr "Échec du verrouillage de la référence pour mise à jour"
+
+#~ msgid "Failed to write ref"
+#~ msgstr "Échec de l'écriture de la référence"
+
+#~ msgid "Failed to lock HEAD during fast_forward_to"
+#~ msgstr "Échec du verrouillage de HEAD pendant l'avance rapide"
+
+#~ msgid "cannot lock HEAD ref"
+#~ msgstr "impossible de verrouiller la référence HEAD"
+
+#~ msgid "cannot update HEAD ref"
+#~ msgstr "impossible de mettre à jour la référence HEAD"
+
+#~ msgid "%s: cannot lock the ref"
+#~ msgstr "%s : impossible de verrouiller la référence"
+
+#~ msgid "%s: cannot update the ref"
+#~ msgstr "%s : impossible de mettre à jour la référence"
+
+#~ msgid "commit has empty message"
+#~ msgstr "le commit a un message vide"
+
+#~ msgid "Failed to chdir: %s"
+#~ msgstr "Échec de chdir: %s"
+
+#~ msgid "Tracking not set up: name too long: %s"
+#~ msgstr "Suivi de branche non paramétré : le nom est trop long : %s"
+
+#~ msgid "could not find .gitmodules in index"
+#~ msgstr "impossible de trouver .gitmodules dans l'index"
