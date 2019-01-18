@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: Git\n"
 "Report-Msgid-Bugs-To: Git Mailing List <git@vger.kernel.org>\n"
 "POT-Creation-Date: 2018-12-02 10:55+0800\n"
-"PO-Revision-Date: 2018-12-01 23:16-0500\n"
-"Last-Translator: christopher.diaz.riv@gmail.com\n"
-"Language-Team: CodeLabora <codelabora@gmail.com>\n"
+"PO-Revision-Date: 2019-01-18 17:51+0000\n"
+"Last-Translator: Weblate Admin <admin@weblate.org>\n"
+"Language-Team: Spanish <http://example.com/projects/poc/git-messages/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.1.1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.3\n"
 
 #: advice.c:99
 #, c-format
@@ -21398,3 +21398,6 @@ msgstr "Realmente deseas mandar %s?[y|N]: "
 
 #~ msgid "Or you can abort the rebase with 'git rebase --abort'."
 #~ msgstr "O puedes abortar el rebasamiento con 'git rebase --abort'."
+
+msgid "music band"
+msgstr "Banda de musica favorita"
