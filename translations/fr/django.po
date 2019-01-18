@@ -22493,6 +22493,3 @@ msgstr "Souhaitez-vous réellement envoyer %s ?[y|N] : "
 #~ msgid ""
 #~ "Aborting. Consider using either the --force or --include-untracked option."
 #~ msgstr "Abandon. Utilisez l'option --force ou --include-untracked."
-
-#~ msgid "employee birth date:"
-#~ msgstr "date de naissance de l'employé :"
