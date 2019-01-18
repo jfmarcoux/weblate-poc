@@ -75,14 +75,16 @@ msgstr ""
 "Project-Id-Version: git\n"
 "Report-Msgid-Bugs-To: Git Mailing List <git@vger.kernel.org>\n"
 "POT-Creation-Date: 2018-12-02 10:55+0800\n"
-"PO-Revision-Date: 2018-12-02 10:24+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2019-01-18 17:00+0000\n"
+"Last-Translator: Weblate Admin <admin@weblate.org>\n"
+"Language-Team: English (Canada) <http://example.com/projects/poc/poc/en_CA/>"
+"\n"
 "Language: en_CA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.3\n"
 
 #: advice.c:99
 #, c-format
@@ -95,7 +97,7 @@ msgstr ""
 
 #: advice.c:154
 msgid "Committing is not possible because you have unmerged files."
-msgstr ""
+msgstr "Committing is not possible because you have unmerged files."
 
 #: advice.c:156
 msgid "Merging is not possible because you have unmerged files."
