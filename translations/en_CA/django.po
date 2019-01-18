@@ -76,7 +76,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: Git Mailing List <git@vger.kernel.org>\n"
 "POT-Creation-Date: 2018-12-02 10:55+0800\n"
 "PO-Revision-Date: 2019-01-18 17:00+0000\n"
-"Last-Translator: Weblate Admin <admin@weblate.org>\n"
+"Last-Translator: Traducteur <traducteur@weblate.org>\n"
 "Language-Team: English (Canada) <http://example.com/projects/poc/poc/en_CA/>"
 "\n"
 "Language: en_CA\n"
@@ -87,21 +87,22 @@ msgstr ""
 "X-Generator: Weblate 3.3\n"
 
 #: advice.c:99
-#, c-format
+#, c-format, fuzzy
 msgid "%shint: %.*s%s\n"
-msgstr ""
+msgstr "%shint: %.*s%s\n"
 
 #: advice.c:152
 msgid "Cherry-picking is not possible because you have unmerged files."
-msgstr ""
+msgstr "Cherry-picking is not possible because you have unmerged files."
 
 #: advice.c:154
 msgid "Committing is not possible because you have unmerged files."
 msgstr "Committing is not possible because you have unmerged files."
 
 #: advice.c:156
+#, fuzzy
 msgid "Merging is not possible because you have unmerged files."
-msgstr ""
+msgstr "Merging is not possible because you have unmerged files."
 
 #: advice.c:158
 msgid "Pulling is not possible because you have unmerged files."
